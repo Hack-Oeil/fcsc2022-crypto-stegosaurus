@@ -5,7 +5,7 @@ On vous demande d'analyser l'image PNG fournie en pièce jointe. Votre but est d
 Fichiers :
 - [stegosaurus.png](stegosaurus.png)
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Stegosaurus](https://hackropole.fr/fr/challenges/crypto/fcsc2022-crypto-stegosaurus/)
 
